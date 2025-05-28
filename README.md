@@ -1,7 +1,7 @@
 # EX.NO.09        A project on Time series analysis on weather forecasting using ARIMA model 
 ```
-Devloped by: P.Jeshwanth Kumar
-Register Number: 212223240114
+Devloped by: Guttha Keerthana
+Register Number: 212223240045
 Date: 28-05-2025
 ```
 
